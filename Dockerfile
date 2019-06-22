@@ -12,4 +12,4 @@ COPY ./  ./app
 
 WORKDIR ./app
 
-CMD [ "python3", "detti.py" ]
+CMD [ "python3", "ku.py" ]
